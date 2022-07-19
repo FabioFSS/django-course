@@ -1,4 +1,5 @@
 from django.views.generic import FormView
+from django.views import View
 from django.urls import reverse_lazy
 from django.contrib import messages
 
